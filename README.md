@@ -46,6 +46,6 @@
         }
 ```
 ## 运行截图
-![列表yxjg.png图片](https://github.com/bcl-An/Course/blob/main/yxjg.png "运行结果") 
+![列表yxjg.png图片](https://github.com/bcl-An/Double-Identity/blob/main/yxjg.png "运行结果") 
 ## 感想
 通过这次的编写，我了解了main方法的参数args的使用以及利用Scanner类实现运行时交互式输入的方法。同时，我掌握了接口应用以及异常处理的写法
